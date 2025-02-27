@@ -1,10 +1,2 @@
 Hello!
-New line from fix.
-
-
-
-
-
-
-
-
+New line from dev.
